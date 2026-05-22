@@ -17,6 +17,3 @@ Open `index.html` in any browser — no installation needed.
 - CSS3
 - Vanilla JavaScript
 - localStorage API
-
-## How to Run
-Clone the repo and open `index.html` in your browser.
